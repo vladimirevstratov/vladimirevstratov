@@ -6,4 +6,4 @@
 - 🤔 I’m looking for help with mobile app on react native
 - 💬 Ask me about react native
 - 📫 How to reach me: vladimir.evstratov@gmail.com
-- ⚡ Fun fact: like to eat more then to sleep
+- ⚡ Fun fact: like cars too much
