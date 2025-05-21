@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on Tangerine Clicker - IDLE clicker game
+🔭 I’m currently working on Banana App - Shopping list with AI
 
 🌱 I’m currently learning programming architecture, patterns and product management. My development tech stack includes JavaScript, Typescript, React.js, React Native, Node.js, Next.js, Google Cloud Platform - that includes Firebase, Cloud Functions, Cloud Run, Cloud SQL, Cloud Storage and GSuite.
 
